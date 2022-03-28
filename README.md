@@ -2,6 +2,7 @@
 - 👀 I’m interested in web development, tecnology, games, javascript, python and others
 - 🌱 I’m currently at UEZO - West Zone Estadual University of Rio de Janeiro getting a degree on Computer Science - 1st Period
 - 💞️ I’m looking to collaborate on tech ativities and elaborate on college duties
+- ☁️ I want to revolutionize psychology using technology
 - 📫 How to reach me: lucaselson02@gmail.com or https://www.linkedin.com/in/lucaselson02/
 
 <!---
